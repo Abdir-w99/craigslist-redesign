@@ -1,2 +1,2 @@
 # craigslist-projekt
-This is a school project focused on improving a website, and I chose Craigslist. I made a home page and an about page with a more modern layout.
+This school project focuses on improving an existing website. I redesigned Craigslist with a more modern layout, including a new home page and an about page.
